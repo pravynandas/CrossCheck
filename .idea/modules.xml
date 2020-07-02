@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-CrossCheck.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-CrossCheck.iml" group="CrossCheck" />
       <module fileurl="file://$PROJECT_DIR$/CrossCheck.iml" filepath="$PROJECT_DIR$/CrossCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CrossCheck-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CrossCheck-app.iml" group="CrossCheck/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
